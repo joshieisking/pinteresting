@@ -1,0 +1,13 @@
+$body-bg:  #16a085;
+$text-color: white;
+$navbar-inverse-bg: black;
+$navbar-inverse-link-color: yellow;
+$jumbotron-bg: #2c3e50;
+$brand-primary: orange;
+
+//= depend_on_asset "bootstrap/glyphicons-halflings-regular.eot"
+//= depend_on_asset "bootstrap/glyphicons-halflings-regular.svg"
+//= depend_on_asset "bootstrap/glyphicons-halflings-regular.ttf"
+//= depend_on_asset "bootstrap/glyphicons-halflings-regular.woff"
+
+@import 'bootstrap';

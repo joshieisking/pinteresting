@@ -7,7 +7,5 @@ class PagesController < ApplicationController
 
   def contact
   end
-
-  def jarvis
-  end
+  
 end
